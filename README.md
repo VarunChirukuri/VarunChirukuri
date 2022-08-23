@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VarunChirukuri
-- 👀 I’m interested in Python, Machine Learning, Data Science, NLP.. 
-- 🌱 I’m currently learning AWS 
+- 👀 I’m interested in Python, Machine Learning, Data Science, NLP, AWS.. 
 - 💞️ I’m looking to collaborate on any Machine learning or application developemnt projects
 - 📫 How to reach me ? Email me at: chirukurivarunteja@gmail.com
 
