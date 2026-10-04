@@ -16,7 +16,7 @@ I'm a Senior Software Engineer passionate about bridging the gap between robust 
 * **Automation:** UiPath, Automation Anywhere, Cross-Platform Workflows
 * **Cloud & Platforms:** AWS, Salesforce, Agentforce
 
-### 💞️ Let's Collaborate
+### Let's Collaborate
 
 I'm actively looking to collaborate on innovative **Machine Learning** or **Application Development** projects. Whether you are building an AI agent from the ground up, developing predictive models, or optimizing automation pipelines, I'd love to connect.
 
